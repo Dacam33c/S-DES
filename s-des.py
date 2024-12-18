@@ -165,3 +165,6 @@ if(modo == "0"):
     print(encript(chave,entrada))
 elif(modo == "1"):
     print(decript(chave,entrada))
+    
+
+input("digite qualquer coisa para fechar o programa")
